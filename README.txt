@@ -1,0 +1,1 @@
+use "mvc_blog.sql" as database before you start watching
